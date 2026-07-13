@@ -74,7 +74,7 @@ When a panel is opened:
 
 ## Live Demo
 
-
+.
 
 ## Project Goal
 
