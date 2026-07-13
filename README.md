@@ -74,13 +74,17 @@ When a panel is opened:
 
 ## Live Demo
 
-.
+https://nomenaharilazarandria.github.io/accordion-02-07-2026/
 
 ## Project Goal
 
 This project was created to practice building reusable UI components with Vanilla JavaScript while preparing for modern frontend frameworks such as React.
 
 ---
+
+## 📸 Preview
+
+<img width="841" height="296" alt="image" src="https://github.com/user-attachments/assets/43178d94-031b-4096-a71e-a4ba39fa1911" />
 
 
 ## Author
